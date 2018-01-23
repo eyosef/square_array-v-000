@@ -1,4 +1,4 @@
-def square_array(element)
+def square_array(numbers)
   square_array.each do |element|
     # print element**2
     # square_array << element**2
