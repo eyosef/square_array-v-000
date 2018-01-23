@@ -1,5 +1,5 @@
 def square_array(element)
   element.each
-  element = element.square
+  element = element ** 2;
 
 end
