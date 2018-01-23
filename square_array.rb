@@ -1,8 +1,9 @@
-# def square_array(element)
-#   element.each
-#   element = element * 2;
-#
-# end
+def square_array(element)
+  array = []
+  element.each { |x| array << x **2 }
+  array 
+
+end
 
 
 def square_array(array)
