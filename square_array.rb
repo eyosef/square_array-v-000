@@ -1,4 +1,4 @@
 def square_array(element)
-  element.each do |element|
+  element.each
 
 end
